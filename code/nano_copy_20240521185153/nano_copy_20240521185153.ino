@@ -81,7 +81,7 @@ void loop(){  // run over and over again
     for (int i=0; i<=1; i++)
   {
    
-    digitalWrite(GreenLed, HIGH);  //red if opened
+    digitalWrite(GreenLed, HIGH);  
     //digitalWrite(Buzzer, HIGH);  
     delay(100);
     digitalWrite(GreenLed, LOW); 
@@ -101,7 +101,7 @@ void loop(){  // run over and over again
     for (int i=0; i<=1; i++)
     {
       
-    digitalWrite(RedLed, HIGH);  //green if secured
+    digitalWrite(RedLed, HIGH);  
     //digitalWrite(Buzzer, HIGH);  
     delay(100);
     digitalWrite(RedLed, LOW); 
