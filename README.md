@@ -1,1 +1,1 @@
-# Security-System-using-Arduinos
+Hello Everyone, This is <b> MD. Saadman Fuad </b> This is just a fun project where I used multiple components to make a functional lock system. I am planning on upgrading it by adding a ultrasound sensor to detect human movement and turn on the system whenever it detects someone. Mainly it will work as a switch to power on the componenets and save energy while there is no human presence nearby. Hoping to upgrade it as soon as possible. 
